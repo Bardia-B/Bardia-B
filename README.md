@@ -1,6 +1,5 @@
-## Hi there 👋
+## Bardia
 
-Hi, I'm Bardia! I'm a CS student interested in building innovative products with AI integration like apps and SaaS solutions. Check out one of my apps, [FitMaxAI](https://apps.apple.com/us/app/fitmaxai/id6737855446)
 ### 🛠️ Technologies & Tools
 
 <div align="left">
